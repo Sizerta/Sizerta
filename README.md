@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sizerta
 - 👀 I’m interested in Machine Learning - Data science - Quantum Computers
 - 🌱 I’m currently learning Machine learning- R programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Sizeta in Telegram
 
 <!---
